@@ -93,7 +93,7 @@ function hook_dlopen(soName,offset)
 				}
 				);
 				console.log("android_dlopen_ext  finish...");
-			}
+			} 
 			
 		}
 	}
